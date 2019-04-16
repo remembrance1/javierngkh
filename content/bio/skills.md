@@ -25,38 +25,37 @@ weight = 1
   icon = "r-project"
   icon_pack = "fab"
   name = "R user"
-  description = "I have been an avid R user since 2010. I have used R both in the classroom as a professor, and in the lab as a scientist and NIH-funded Principal Investigator. You can find my current work for [RStudio Education on GitHub](https://github.com/rstudio-education)."
+  description = "I have been an avid R user since 2013. My R journey started in the classroom as a student. Subsequently, in the lab as a data analyst dealing with cardiovascular data and presently, a forensic data analytics associate in EY. You can find my current scripts [here](https://github.com/remembrance1/Essential-R-Codes)."
   
 [[feature]]
-  icon = "apple-alt"
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python Tutor"
+  description = "I have developed and taught multiple foundational level Python courses since 2015. My pool of students are mainly from the Polytechnic level. At work, I conduct mini workshops for my colleagues to help them gain an understanding into the fundamentals of Python."
+
+[[feature]]
+  icon = "chart-area"
   icon_pack = "fas"
-  name = "Data Science Educator"
-  description = "I have developed and taught multiple graduate-level data science courses. I also trained the Office of Research Impact at the [Oregon Clinical & Translational Research Institute](https://www.ohsu.edu/xd/research/centers-institutes/octri/) to use R, and have consulted with the [University of Oregon College of Education](https://education.uoregon.edu/) on the development of a graduate data science specialization track. I received an [Excellence in Education award](https://www.ohsu.edu/xd/education/schools/school-of-medicine/news-and-events/honors2018.cfm) from OHSU in 2018."
-  
+  name = "Data Visualization & Statistics"
+  description = "In my line of work, I've been exposed to all sorts of data, both structured and unstructured. I enjoy performing exploratory data analysis, visualizing data, building predictive models (*makes me feel like a fortune teller! :D*) and translating them into business insights. PS: I love working with time-series!"
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "I'm passionate about helping businesses undergo a technological shift into the machine learning arena. Since 2017, I've utilized multiple machine learning techniques, namely: classification, regression, decision trees and clustering. Recently, I've developed a keen interest in using XGBoost for fraud identification at EY Singapore."
+
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "Author"
-  description = "I created the DataCamp.com course [Working with Data in the Tidyverse](https://www.datacamp.com/courses/working-with-data-in-the-tidyverse), and I am a co-author of the book [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/). I have also written numerous scientific journal articles and book chapters on autism and neurodevelopmental disorders."
-  
-[[feature]]
-  icon = "microphone-alt"
-  icon_pack = "fas"
-  name = "Speaker"
-  description = "I have presented original research at over 25 international conferences. Recently, I gave a keynote at the [2018 Cascadia R Conf in Portland, Oregon](../talk/cascadia-r-keynote/), and have an upcoming keynote for the 2019 [Young Statisticians Conference in Canberra, Australia](http://ysc2019.netlify.com/)."
-  
-[[feature]]
-  icon = "drafting-compass"
-  icon_pack = "fas"
-  name = "Data Visualization & Statistics"
-  description = "I love exploring, analyzing, and [visualizing data](https://apreshill.github.io/data-vis-labs-2018/). Lately, I enjoy visualizing ['The Great British Bake Off'](https://alison.netlify.com/uo-tidy-bakeoff/#1) (you can too with [my R package!](http://bakeoff.netlify.com/)), and talking about how to [take a sad plot and make it better](../talk/ohsu-biodatavis)."
+  name = "Content Writer"
+  description = "Beyond my technical skills, my background as a content editor at *The Savvy Buddy* allows me to craft stories in an engaging and compelling way to audiences from all walks of life. In December 2018, *The Savvy Buddy* has been acquired by [Dollars and Sense](https://dollarsandsense.sg/) through a private offer."
 
 [[feature]]
-  icon = "flask"
+  icon = "camera"
   icon_pack = "fas"
-  name = "Scientist"
-  description = "I studied developmental psychology and quantitative methods, finishing my PhD in 2008. [My research](https://profiles.impactstory.org/u/0000-0002-8082-1890) focused on health-related applications of Natural Language Processing-based methods, and has been funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks."
-
+  name = "Drone Fanatic"
+  description = "I jumped on the drone craze bandwagon in 2018 and it was one of the best decisions I've ever made. Flying a drone can be a very enjoyable experience. If you haven't flown a drone, yet, I recommend you do so. Drop me a message [here](#) if you love drone photography too."
 
 +++
 

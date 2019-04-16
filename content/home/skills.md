@@ -4,9 +4,9 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = false
+active = true
 
-title = "Skills"
+title = "Technical Skills"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,18 +25,29 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  
+[[feature]]
+  icon = "palette"
+  icon_pack = "fas"
+  name = "Tableau"
+  
+[[feature]]
+  icon = "linux"
+  icon_pack = "fab"
+  name = "Linux"
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
 +++

@@ -31,8 +31,8 @@ weight = 5
 
 # Background
 
-I am a Data Scientist & Professional Educator at [RStudio](https://rstudio.com). We develop free and open source tools to make it easier and more fun to do data science with the statistical programming language [<i class="fab fa-r-project"></i>](https://www.r-project.org). We also create software to help teams who use R to share and publish their work.
+I am a strategic analyst experienced with techniques and best practices in predictive modelling, data discovery and data visualization. Professionally, I work at EY Singapore, as a member of the Forensics & Integrity Services team. We utilize a variety of tools to sift through databases, identify meaningful patterns and correlations with machine learning techniques, and translating them into actionable insights to drive business decisions.    
 
-I studied psychology and quantitative methods, receiving my Ph.D. from Vanderbilt University (2008). For eight years, I was a professor and scientist at Oregon Health & Science University, where my research was funded by the National Institutes of Health, the Oregon Clinical and Translational Research Institute, and Autism Speaks. I have written numerous scientific journal articles and book chapters on autism and neurodevelopmental disorders. 
+Coming from a startup background, I've many hats in my career: programmer, writer, researcher, co-founder, social media strategist, mechanical designer and, marketer. As a result, I have a unique ability to manage multi-disciplinary projects and handle complex challenges. I love working with equally enthusiastic, cross-functional teams who are eager to build elegant and impactful products.
 
-I have developed and delivered workshops, graduate-level courses, and curricula based on teaching R, the [tidyverse](https://www.tidyverse.org/), and [literate programming](https://bookdown.org/yihui/blogdown/). You can follow my current work for [RStudio Education on GitHub <i class="fab fa-github-alt"></i>](https://github.com/rstudio-education).
+As an advocate for lifelong learning, I have developed and delivered workshops at my workplace, tutored polytechnic-level students, on the fundamentals of Python programming. 

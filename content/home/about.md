@@ -33,6 +33,6 @@ weight = 5
 
 I am a strategic analyst experienced with techniques and best practices in predictive modelling, data discovery and data visualization. Professionally, I work at EY Singapore, as a member of the Forensics & Integrity Services team. We utilize a variety of tools to sift through databases, identify meaningful patterns and correlations with machine learning techniques, and translating them into actionable insights to drive business decisions.    
 
-Coming from a startup background, I've many hats in my career: programmer, writer, researcher, co-founder, social media strategist, mechanical designer and, marketer. As a result, I have a unique ability to manage multi-disciplinary projects and handle complex challenges. I love working with equally enthusiastic, cross-functional teams who are eager to build elegant and impactful products.
+Coming from a startup background, I've worn many hats in my career: programmer, writer, researcher, co-founder, social media strategist, mechanical designer and, marketer. As a result, I have a unique ability to manage multi-disciplinary projects and handle complex challenges. I love working with equally enthusiastic, cross-functional teams who are eager to build elegant and impactful products.
 
 As an advocate for lifelong learning, I have developed and delivered workshops at my workplace, tutored polytechnic-level students, on the fundamentals of Python programming. 

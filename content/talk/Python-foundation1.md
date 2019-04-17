@@ -4,7 +4,7 @@ title = "Python Foundation I"
 abstract = "A workshop on learning the basics of Python."
 abstract_short = ""
 event = "Python Foundation I"
-event_url = "/html/jamboree_heart_ggplot.html"
+event_url = ""
 location = "Oregon Health & Science University, Portland, Oregon"
 
 selected = true
@@ -13,9 +13,6 @@ math = true
 url_pdf = ""
 url_slides = ""
 url_video = ""
-[[url_custom]]
-    name = "html"
-    url = "html/jamboree_heart_ggplot.html"
 [[url_custom]]
     name = "Rmd"
     url = "https://github.com/apreshill/data-vis-jamboree-ggplot/blob/master/jamboree_heart_ggplot.Rmd"

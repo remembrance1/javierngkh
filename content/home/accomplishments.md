@@ -15,15 +15,10 @@ weight = 60
 
 +++
 
-I developed and taught the following graduate-level courses at [Oregon Health & Science University](https://www.ohsu.edu):
+- NUS MIT Healthcare AI Datathon 2018 (Top 5 Teams in Predicting Neurosurgery Success Outcome)
+- NUS MIT Healthcare AI Datathon 2017 (Top 3 Teams in Cardiovascular Risk Prediction)
+- NUS Student Achievement Award 2014
+- NUS Innoventure Challenge 1st Position (Development of Mobile Fuel Dispensing Unit)
+- Singapore Armed Forces (SAF) Outstanding Serviceman Award 2010
+- CCA Excellence Award 2008
 
-- [Principles & Practice of Data Visualization](https://apreshill.github.io/data-vis-labs-2018/) (co-instructors: Drs. Steven Bedrick and Jackie Wirz)
-- [Probability & Statistics for Scientists and Engineers](https://ohsu-math630.netlify.com/) 
-- [Introduction to Data Wrangling, Analysis, & Communication](https://ohsu-conj620.netlify.com/)
-- [Data Science Programming](https://github.com/apreshill/ohsu-ds-programming) (co-instructor)
-
-I have also:
-
-- Created the DataCamp.com course [Working with Data in the Tidyverse](https://www.datacamp.com/courses/working-with-data-in-the-tidyverse); the second course in the ["Tidyverse Fundamentals" track](https://www.datacamp.com/tracks/tidyverse-fundamentals)
-
-- Consulted on the development of the [Data Science Specialization for the University of Oregon College of Education](https://github.com/uo-datasci-specialization).

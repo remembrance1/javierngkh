@@ -18,9 +18,24 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Masters of Computer Science (Applied AI) "
+  institution = "National University of Singapore"
+  year = In Progress
+
+[[education.courses]]
   course = "Data Science Specialization"
   institution = "The John Hopkins University"
   year = 2018
+
+[[education.courses]]
+  course = "Specialist Diploma in Predictive Analytics"
+  institution = "Singapore Polytechnic"
+  year = 2018
+
+[[education.courses]]
+  course = "BBA in Business Administration"
+  institution = "National University of Singapore"
+  year = 2017 
 
 [[education.courses]]
   course = "BSc in Life Sciences"

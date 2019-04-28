@@ -18,9 +18,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Masters of Computer Science (Applied AI) "
+  course = "Masters of Computer Science (Applied AI) - In Progress"
   institution = "National University of Singapore"
-  year = In Progress
+  year = 2020
 
 [[education.courses]]
   course = "Data Science Specialization"

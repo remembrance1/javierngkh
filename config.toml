@@ -23,7 +23,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "javier_ng"
+disqusShortname = "javierngkh-rbind-io-1"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-82997072-2"

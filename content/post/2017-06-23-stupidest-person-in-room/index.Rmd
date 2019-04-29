@@ -1,7 +1,8 @@
 ---
 title: Be the Stupidest Person in the Room
 author: Javier Ng
-date: '2017-06-23'
+publishdate: 2017-06-23
+date: 2017-06-23
 slug: 
 categories: ["Thoughts"]
 tags: ["Thoughts"]

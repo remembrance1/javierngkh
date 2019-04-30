@@ -1,8 +1,8 @@
 ---
 title: 27 Things You Learn When You're Done with 27
 author: Javier Ng
-date: 1979-05-27
-lastmod: 1979-05-27
+date: 2018-05-27
+lastmod: 2018-05-27
 categories: ["Thoughts"]
 tags: ["Thoughts"]
 image:

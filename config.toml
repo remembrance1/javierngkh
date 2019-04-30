@@ -198,9 +198,6 @@ enableGitInfo = false
     'Book',  # 5
     'Book section'  # 6
   ]
-
-  date = ["publishDate", ":default"]
-  lastmod = ["publishDate", ":default"]
   
   # Configuration of talk pages.
   [params.talks]

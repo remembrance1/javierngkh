@@ -47,6 +47,10 @@ enableGitInfo = false
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
 
+[frontmatter]
+date = ["publishDate", ":default"]
+lastmod = ["publishDate", ":default"]
+
 [params]
   # add github edit https://bookdown.org/yihui/blogdown/templates.html
   GithubEdit = "https://github.com/remembrance1/javierngkh/edit/master/content/"

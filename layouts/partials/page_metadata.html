@@ -24,7 +24,7 @@
         {{ i18n "last_updated" }}
     {{ end }}
     <meta content="{{ $.Params.Date }}" itemprop="datePublished">
-    <time datetime="{{ $.Params.LastMod }}" itemprop="dateModified">
+    <time datetime="{{ $.Params.publishDate }}" itemprop="dateModified">
       {{ $.Lastmod.Format $.Site.Params.date_format }}
     </time>
   </span>

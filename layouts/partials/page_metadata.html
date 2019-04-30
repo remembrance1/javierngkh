@@ -24,8 +24,8 @@
         {{ i18n "last_updated" }}
     {{ end }}
     <meta content="{{ $.Params.Date }}" itemprop="datePublished">
-    <time datetime="{{ $.Params.PublishDate }}" itemprop="dateModified">
-      {{ $.PublishDate.Format $.Site.Params.date_format }}
+    <time datetime="{{ $.Params.LastMod }}" itemprop="dateModified">
+      {{ $.Lastmod.Format $.Site.Params.date_format }}
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">

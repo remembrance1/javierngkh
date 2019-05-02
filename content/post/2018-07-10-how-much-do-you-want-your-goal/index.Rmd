@@ -1,0 +1,53 @@
+---
+title: How Much Do you WANT your GOAL?
+author: Javier Ng
+date: '2018-07-10'
+categories: []
+tags: ["Thoughts"]
+image:
+  caption: ''
+  focal_point: ''
+---
+
+```{r echo = FALSE}
+knitr::include_graphics("person-1245959_1280.jpg")
+```
+
+Recently, I was speaking to a friend of mine about his job experiences. Finding a job in the research sector has always been his goal, but for the longest time, he stayed unemployed. Wanting to help out a fellow brother in need, I shared with him some job application tips that worked for me. I wanted to understand why he hasn’t been able to achieve his goal; I mean, if you really want something so badly, then what’s stopping you from getting it? 
+
+**Fantasizing is not enough.**
+
+Turns out, my friend has always known what actions he needed to undertake to secure the position he wanted. As he kept fixating over his lack of relevant experiences, it resulted in him not turning up for the many interview opportunities he had. Simply thinking about how nice it is to work in your dream job will not make you happy. Neither does it change your present circumstances.
+
+Life is a game where it embraces the daring and shuns the timid. Say for instance if you want to set up a business and be rich, yet you spend most of your time on the drawing board dreaming about the things you will do once you are rich, then it won’t happen anytime soon. 
+
+Despite the complexities of life, life revolves around the principle of cause and effect or in simpler terms: you reap what you sow. Just like what Isaac Newton expounded in his 3rd law, “For every action, there is an opposite and equal reaction to it.” If you want to be rich, then work hard, invest or start a business. If you want to find love, then start going out to meet people and make it happen. If you want to be good in a skill, then work at it day in and out and you will be better. If you want to change and impact lives, then start now; by first inspiring yourself.
+
+Ultimately, we are responsible for our own destiny. To some of us, it may seem that our lives have already been predetermined, whether is it by our environment, or something more innate: our genes. However, what really matters is not our past circumstances. It is about what we are doing presently, how we are constantly polishing our lives and improving ourselves. And that’s what matters. 
+
+**Don’t compare.**
+
+There’s no need for us to be held back by our past, or how much better, successful or rich someone else is. We all start from somewhere. Some people may be in a different league or level from us, but that doesn’t mean that you won’t be able to reach there someday. It starts again from today. Importantly, we should not wallow in our pit of self pity and anguish, but instead look at the seeds we are sowing now for the future. 
+
+At this point, my friend lamented about how all his friends are already engaged and clearing milestones after milestones in life: BTO, marriage and having a baby. Yet he is still stuck at square one, playing life on hard mode.
+
+Nothing is ever easy for any of us. Behind every success story,  tales of untold failures accompany it manifold. What’s certain is that as long as we commit to putting in the work, we are closer to our goal regardless of how slow we are moving. Getting stuck in the vicious cycle of comparing with others only distracts and drains you from tackling your own challenges. Instead, we should compare our today’s self  from how we were yesterday.
+
+Every life story is unique. Your experiences are yours alone, and they are not small. Sometimes you spend all your time focusing about how wonderful everyone else’s life is, you will fail to see the marvel in yours. My advice to you is to stop focusing on others’ successes but instead on creating your own present and future by the choices you make every moment. Don’t fall for the passive acceptance or resignation that, “life will be what it will be.” 
+
+**You are not alone.**
+
+Oftentimes, you may feel that no one truly understands the situation you are in. This leads to a deadly spiral of ongoing feelings of loneliness that don’t fade away even when you are around other people. This vulnerable position will leave you with the feeling of not belonging and that no one enjoys your company. 
+
+So how do you stop this vicious cycle? You need to start by being brutally honest with yourself. Why are you being caught in this self absorbed cycle? Are you really alone or do you choose to be that way? If you find that no one else understands you, could it be that you haven’t been sharing your problems with the right person? We need to realize that our thoughts are the ones that are limiting ourselves from the world, not the other way round. 
+
+**Work on yourself & dont quit.**
+
+Each and everyone of us have a unique mission that only you, and you alone can fulfill. I always like to use this analogy when describing the struggles and hardships we undergo. Imagine that your life is akin to a crudely cut, tarnished diamond within ourselves. Hardships are like a polishing cloth. With each hardship that you surmount, you are slowly brightening the diamond within your life. By continuously polishing the diamond within, you will be able to bring out your potential to shine forth to the fullest. Take heart, and don’t let failures and disappointments stop you from moving forward. 
+
+There are many who dream about success without being willing to invest any effort. That is merely a fairytale, a simplistic childish view of life. 
+
+**Conclusion**
+
+In conclusion, whether you achieve your goal eventually or never at all depends on your willingness to take the relevant actions and put in the right amount of effort for it. Don’t come up with excuses to explain your incapabilities. Instead, deeply reflect about them and work at it, one day at a time. We all deserve the best in life, so don’t settle for seconds place. Cherish today and fight hard, for your tomorrow. Just like a seedling that requires nutrients and time before it can grow into a sturdy tree, your life too requires constant effort and patience. 
+

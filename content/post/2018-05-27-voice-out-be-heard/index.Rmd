@@ -1,0 +1,38 @@
+---
+title: Voice Out & be Heard
+author: Javier Ng
+date: '2018-05-27'
+categories: ["Thoughts"]
+tags: ["Thoughts"]
+image:
+  caption: ''
+  focal_point: ''
+---
+
+```{R echo = F}
+knitr::include_graphics("mic-1132528_1280.jpg")
+```
+
+Speak up. You cannot be afraid. 
+
+You have a right, to let your voice be heard. To have your opinion, to believe and to stand up for the values you embody. 
+
+You have a right, to speak to the world and let everyone around know of your existence. To be heard, to be courageous, fierce and daring.
+
+You are entitled to your own feelings, ideals and convictions. Stop holding yourself back and hope someone will come along and speak your mind. You are not always meant to snuff out your voice. And regardless of what happens when you harnessed the power of your voice, be proud of it - bold, brave and strong.
+
+But no, speaking up is not about raising your voice and shutting out everyone. You don’t have to bawl, kick and bite to have your voice heard; to be noticed. 
+
+**You don’t have to scream and shout to bring your point across or act in a manner that is not yourself.** 
+
+You just need to know that you have a voice. A beautiful, unique one; and that people around are listening. You are worthy of being heard. Your voice is important. Its truly yours, so why hide it?
+
+Believe in yourself. Believe in others too. And sometimes, believe that there is good in this world and in the people around you too; though they may be hidden behind a veil at times. 
+
+When you experience injustice, when you see someone abused; all the more you can’t simply do nothing. Speak with confidence and let yourself be heard. Stand up for the truth and don’t falter when pressured.
+
+You don’t have to fear, for the power of your voice carries weight. Be true, be real. You don’t need a facade just to prove your abilities. Nor do you need to put others down to let your light shine. 
+
+You are strong in your own way. In your composure, your experiences and who you uniquely are. **What you have to say matters.** So speak up. With confidence. 
+
+Believe in what you have to say. 

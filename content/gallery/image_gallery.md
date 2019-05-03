@@ -48,7 +48,7 @@ subtitle = ""
  
 [[gallery_item]]
 album = "gallery"
-image = "https://live.staticflickr.com/4343/36428043485_73de434174_k_d.jpg"
+image = "https://youtu.be/B1go9DPd_xg"
 caption = "Dark theme"
 
 [[gallery_item]]
@@ -56,6 +56,11 @@ album = "gallery"
 image = "https://live.staticflickr.com/7467/15926672116_b93e029a60_o_d.jpg"
 caption = "Dark theme"
 +++
+
+{{% alert note %}}
+Under Construction
+
+{{% /alert %}}
 
 Welcome to the **personal demo** of Academic. Other demos available include:
 
@@ -66,9 +71,7 @@ Welcome to the **personal demo** of Academic. Other demos available include:
 **[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
 
 {{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
+Under Construction
 {{% /alert %}}
 
 {{< gallery album="gallery" >}}

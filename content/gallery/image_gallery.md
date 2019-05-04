@@ -10,7 +10,62 @@ weight = 15  # Order that this section will appear.
 
 title = "Image Gallery"
 subtitle = ""
- 
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0042.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0043.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0047.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0048.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0049.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0050.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0051.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0052.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0053.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0054.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0060.JPG"
+caption = ""
+
 [[gallery_item]]
 album = "gallery"
 image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0001.JPG"
@@ -94,61 +149,6 @@ caption = ""
 [[gallery_item]]
 album = "gallery"
 image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0035.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0042.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0043.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0047.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0048.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0049.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0050.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0051.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0052.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0053.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0054.JPG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0060.JPG"
 caption = ""
 
 +++

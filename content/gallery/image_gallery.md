@@ -10,68 +10,157 @@ weight = 15  # Order that this section will appear.
 
 title = "Image Gallery"
 subtitle = ""
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  image = "./javierngkh/static/img/headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  text_color_light = true
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
  
 [[gallery_item]]
 album = "gallery"
-image = "https://www.youtube.com/embed/oVw_koOnTDA?ecver=1&amp"
-caption = "Dark theme"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0001.JPG"
+caption = ""
 
 [[gallery_item]]
 album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/blob/master/videoplayback.mp4"
-caption = "Dark theme"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0003.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0004.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0005.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0006.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0007.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0008.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0012.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0013.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0016.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0017.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0018.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0027.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0028 (2).JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0028.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0031.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0035.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0039.DNG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0042.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0043.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0047.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0048.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0049.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0050.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0051.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0052.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0053.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0054.JPG"
+caption = ""
+
+[[gallery_item]]
+album = "gallery"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0060.JPG"
+caption = ""
+
 +++
 
 {{% alert note %}}
 Under Construction
-
-{{% /alert %}}
-
-Welcome to the **personal demo** of Academic. Other demos available include:
-
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-Under Construction
+Iceland - November 2018
 {{% /alert %}}
 
 {{< gallery album="gallery" >}}

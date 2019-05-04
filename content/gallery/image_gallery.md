@@ -48,7 +48,7 @@ subtitle = ""
  
 [[gallery_item]]
 album = "gallery"
-image = "https://youtu.be/B1go9DPd_xg"
+image = "https://www.youtube.com/embed/oVw_koOnTDA?ecver=1&amp"
 caption = "Dark theme"
 
 [[gallery_item]]

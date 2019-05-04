@@ -98,11 +98,6 @@ caption = ""
 
 [[gallery_item]]
 album = "gallery"
-image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0039.DNG"
-caption = ""
-
-[[gallery_item]]
-album = "gallery"
 image = "https://raw.githubusercontent.com/remembrance1/javierngkh/master/content/gallery/gallery%20images/DJI_0042.JPG"
 caption = ""
 

@@ -53,7 +53,7 @@ caption = "Dark theme"
 
 [[gallery_item]]
 album = "gallery"
-image = "https://live.staticflickr.com/7467/15926672116_b93e029a60_o_d.jpg"
+image = "https://raw.githubusercontent.com/remembrance1/javierngkh/blob/master/videoplayback.mp4"
 caption = "Dark theme"
 +++
 

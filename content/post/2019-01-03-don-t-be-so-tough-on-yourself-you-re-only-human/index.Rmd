@@ -2,8 +2,8 @@
 title: Don't be so Tough on Yourself, You're Only Human
 author: Javier Ng
 date: '2019-01-03'
-categories: []
-tags: []
+categories: ["Thoughts"]
+tags: ["Thoughts"]
 image:
   caption: ''
   focal_point: ''

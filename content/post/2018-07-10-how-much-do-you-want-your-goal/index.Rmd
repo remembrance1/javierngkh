@@ -2,7 +2,7 @@
 title: How Much Do you WANT your GOAL?
 author: Javier Ng
 date: '2018-07-10'
-categories: []
+categories: ["Thoughts"]
 tags: ["Thoughts"]
 image:
   caption: ''

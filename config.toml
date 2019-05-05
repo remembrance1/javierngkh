@@ -315,7 +315,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Accomplishments"
-  url = "#accomplishments"
+  url = "/accomplishments/"
   weight = 4
   
 [[menu.main]]

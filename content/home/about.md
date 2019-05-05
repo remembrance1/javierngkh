@@ -26,11 +26,6 @@ weight = 5
   course = "BSc in Life Sciences"
   institution = "National University of Singapore"
   year = 2017
-  
-[[education.courses]]
-  course = "BBA in Business Adminsitration"
-  institution = "National University of Singapore"
-  year = 2017
 
 +++
 

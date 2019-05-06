@@ -29,5 +29,5 @@ caption = ""
 
 +++
 
-{{< figure src="/img/rprogramming.png" >}}
+
 

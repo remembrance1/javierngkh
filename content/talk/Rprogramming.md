@@ -3,7 +3,7 @@ date = "2019-05-11T12:30:00"
 title = "Introduction to R Programming"
 abstract = "Come learn the basics of R! This is a powerful programming language used by Statisticians and Biomedical Scientists alike to analyze data, big and small."
 
-abstract_short = "A free workshop on R Programming."
+abstract_short = "A free workshop on R Programming Basics."
 event = "Introduction to R Programming"
 event_url = ""
 location = "Stephen Riady Center, 2 College Ave West, Global Learning Room"

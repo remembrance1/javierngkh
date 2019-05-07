@@ -1,5 +1,5 @@
 +++
-date = "2019-04-11T19:30:00"
+date = "2019-05-11T19:30:00"
 title = "Introduction to R Programming"
 abstract = "Test"
 
@@ -29,5 +29,5 @@ caption = ""
 
 +++
 
-{{< figure src="/img/pyth_foundationII.png" >}}
+{{< figure src="/img/rprogramming.png" >}}
 

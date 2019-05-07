@@ -1,9 +1,9 @@
 ---
-title: 10 Savvy Hacks to Sounding Confident
+title: Savvy Hacks to Sounding Confident
 author: Javier Ng
 date: '2019-02-18'
 categories: ["Motivation"]
-tags: ["Thoughts", "Motivation"]
+tags: ["Motivation"]
 image:
   caption: ''
   focal_point: ''

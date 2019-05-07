@@ -29,3 +29,4 @@ caption = ""
 
 +++
 
+{{< figure src="/img/blogdown-meetup.jpg" >}}

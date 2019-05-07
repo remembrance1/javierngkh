@@ -28,3 +28,5 @@ image = ""
 caption = ""
 
 +++
+
+{{< figure src="/img/pyth_foundation - Copy.png" >}}

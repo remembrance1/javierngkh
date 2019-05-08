@@ -29,4 +29,4 @@ caption = ""
 
 +++
 
-{{< figure src="/img/blogdown-meetup.jpg" >}}
+{{< figure src="/img/pyth_foundationII.png" >}}

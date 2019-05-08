@@ -1,13 +1,14 @@
 +++
-date = "2018-04-11T19:30:00"
-title = "Intermediate Python Programming"
-abstract = "This is a follow-up workshop from 'Python for Beginners.' Once you’re past the basics, you can start digging into our intermediate-level workshop that will teach you new Python concepts. This workshop is for intermediate Python developers who already know the basics of Python development and want to expand their knowledge"
+date = "2018-05-11T12:30:00"
+title = "R Basics - Part II"
+abstract = "Come learn the basics of R! This is a powerful programming language used by Statisticians and Biomedical Scientists alike to analyze data, big and small."
 
-abstract_short = "A free workshop on the intermediate Python programming."
-event = "Python Foundation II"
+abstract_short = "A free workshop on the basics of R programming."
+event = "R Foundation II"
 event_url = ""
 location = "Stephen Riady Center, 2 College Ave West, Global Learning Room"
 location_url = "https://goo.gl/maps/WSfgS5kxAqR2"
+
 
 selected = true
 math = true
@@ -29,5 +30,6 @@ caption = ""
 
 +++
 
-{{< figure src="/img/pyth_foundationII.png" >}}
++   **Duration**: 2 hours
++   **Things to Bring**: Laptop with [Rstudio](https://www.rstudio.com/) installed.
 

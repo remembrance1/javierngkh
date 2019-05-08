@@ -1,5 +1,5 @@
 +++
-date = "2018-05-11T12:30:00"
+date = "2018-05-25T12:30:00"
 title = "R Basics - Part II"
 abstract = "Come learn the basics of R! This is a powerful programming language used by Statisticians and Biomedical Scientists alike to analyze data, big and small."
 
@@ -33,3 +33,4 @@ caption = ""
 +   **Duration**: 2 hours
 +   **Things to Bring**: Laptop with [Rstudio](https://www.rstudio.com/) installed.
 
+{{< figure src="/img/rprogramming.png" >}}

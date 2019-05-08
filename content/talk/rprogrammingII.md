@@ -29,4 +29,4 @@ caption = ""
 
 +++
 
-{{< figure src="/img/pyth_foundation - Copy.png" >}}
+{{< figure src="/img/pyth_foundation.png" >}}

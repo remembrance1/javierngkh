@@ -1,7 +1,7 @@
 +++
 date = "2018-05-11T12:30:00"
 title = "R Basics"
-abstract = "Come learn the basics of R! This is a powerful programming language used by Statisticians and Biomedical Scientists alike to analyze data, big and small"
+abstract = "Come learn the basics of R! This is a powerful programming language used by Statisticians and Biomedical Scientists alike to analyze data, big and small."
 
 abstract_short = "A free workshop on the basics of R programming."
 event = "R Foundation I"
@@ -27,4 +27,5 @@ caption = ""
 
 +++
 
-
++   Duration: 2 hours
++   Things to Bring: Laptop with [Rstudio](https://www.rstudio.com/) installed.

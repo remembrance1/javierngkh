@@ -17,6 +17,10 @@ url_slides = ""
 url_video = ""
 
 [[url_custom]]
+    name = "Md"
+    url = "https://github.com/remembrance1/javierngkh/blob/master/content/talk/Python-foundation2.md"
+
+[[url_custom]]
     name = "Location"
     url = "https://goo.gl/maps/WSfgS5kxAqR2"
     
@@ -27,5 +31,8 @@ caption = ""
 
 +++
 
-+   Duration: 2 hours
-+   Things to Bring: Laptop with [Rstudio](https://www.rstudio.com/) installed.
++   **Duration**: 2 hours
++   **Things to Bring**: Laptop with [Rstudio](https://www.rstudio.com/) installed.
+
+{{< figure src="/img/rprogramming1.png" >}}
+

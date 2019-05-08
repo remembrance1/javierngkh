@@ -33,4 +33,4 @@ caption = ""
 +   **Duration**: 2 hours
 +   **Things to Bring**: Laptop with [Rstudio](https://www.rstudio.com/) installed.
 
-{{< figure src="/img/rprogramming.png" >}}
+{{< figure src="/img/rprogramming2.png" >}}

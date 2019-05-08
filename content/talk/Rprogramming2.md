@@ -1,6 +1,6 @@
 +++
 date = "2019-05-25T12:30:00"
-title = "Introduction to R Programming - Part II"
+title = "Introduction to R Programming! - Part II"
 abstract = "Come learn the basics of R! This is a powerful programming language used by Statisticians and Biomedical Scientists alike to analyze data, big and small."
 
 abstract_short = "A free workshop on R Programming - Part II."

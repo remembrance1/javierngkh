@@ -62,7 +62,7 @@ enableGitInfo = true
   organizations = [ { name = "EY Singapore", url = "https://www.ey.com/sg/en/home" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "jkn-coverimage.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "####jkn-coverimage.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "#javierngkh@gmail.com"
@@ -256,32 +256,32 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#mailto:javierngkh@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+    link = "###"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "#https://twitter.com/javierngkh"
+    link = "###"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "#https://github.com/remembrance1"
+    link = "####"
 
   [[params.social]]
     icon = "linkedin-in"
     icon_pack = "fab"
-    link = "#https://www.linkedin.com/in/javierngkh/"
+    link = "####"
 
   [[params.social]]
     icon = "stack-overflow"
     icon_pack = "fab"
-    link = "#https://stackoverflow.com/users/8872868/javier"
+    link = "####"
 
   [[params.social]]
     icon = "keybase"
     icon_pack = "fab"
-    link = "#https://keybase.io/javierngkh"
+    link = "####"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

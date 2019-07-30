@@ -9,11 +9,11 @@
 baseurl = "https://javierngkh.rbind.io/"
 
 # Title of your site
-title = "Javier Ng Kok How"
+title = "Under Construction"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Javier Ng Kok How 2019"
+copyright = "&copy; Under Construction 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -54,7 +54,7 @@ enableGitInfo = true
 
   # AUTHOR SETUP
   # Your details.
-  name = "Javier Ng Kok How"
+  name = "Under Construction"
   role = "Data Artist | Data Science"
 
   # Organizations/Affiliations.
@@ -65,7 +65,7 @@ enableGitInfo = true
   avatar = "jkn-coverimage.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "javierngkh@gmail.com"
+  email = "#javierngkh@gmail.com"
   address = ""
   office_hours = ""
   phone = ""
@@ -256,32 +256,32 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:javierngkh@gmail.com"  # For a direct email link, use "mailto:test@example.org".
+    link = "#mailto:javierngkh@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "https://twitter.com/javierngkh"
+    link = "#https://twitter.com/javierngkh"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/remembrance1"
+    link = "#https://github.com/remembrance1"
 
   [[params.social]]
     icon = "linkedin-in"
     icon_pack = "fab"
-    link = "https://www.linkedin.com/in/javierngkh/"
+    link = "#https://www.linkedin.com/in/javierngkh/"
 
   [[params.social]]
     icon = "stack-overflow"
     icon_pack = "fab"
-    link = "https://stackoverflow.com/users/8872868/javier"
+    link = "#https://stackoverflow.com/users/8872868/javier"
 
   [[params.social]]
     icon = "keybase"
     icon_pack = "fab"
-    link = "https://keybase.io/javierngkh"
+    link = "#https://keybase.io/javierngkh"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

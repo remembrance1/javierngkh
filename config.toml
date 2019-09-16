@@ -256,7 +256,7 @@ enableGitInfo = true
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "###"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:javierngkh@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
@@ -266,17 +266,17 @@ enableGitInfo = true
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "####"
+    link = "https://github.com/remembrance1"
 
   [[params.social]]
     icon = "linkedin-in"
     icon_pack = "fab"
-    link = "####"
+    link = "https://www.linkedin.com/in/javierngkh"
 
   [[params.social]]
     icon = "stack-overflow"
     icon_pack = "fab"
-    link = "####"
+    link = "https://stackoverflow.com/users/8872868/javier"
 
   [[params.social]]
     icon = "keybase"

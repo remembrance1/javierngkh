@@ -44,7 +44,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Singapore"
   date_start = "2015-02-01"
-  date_end = ""
+  date_end = "2019-07-11"
   description = """ """
   
 [[experience]]

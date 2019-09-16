@@ -15,6 +15,8 @@ weight = 1
 
 +++
 
+- EY Bronze Data Science Badge (2019)
+- EY Bronze Artificial Intelligence Badge (2019)
 - NUS MIT Healthcare AI Datathon 2018 (Top 5 Teams in Predicting Neurosurgery Success Outcome)
 - NUS MIT Healthcare AI Datathon 2017 (Top 3 Teams in Cardiovascular Risk Prediction)
 - NUS Student Achievement Award 2014

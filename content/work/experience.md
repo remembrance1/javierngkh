@@ -19,12 +19,22 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Big Data & Statistics"
+  company = "Reserve Bank of New Zealand"
+  company_url = "https://www.rbnz.govt.nz"
+  location = "Wellington, New Zealand"
+  date_start = "2019-09-02"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
   title = "Forensic Data Analytics Associate"
   company = "Ernst & Young (EY)"
   company_url = "https://www.ey.com/sg/en/home/"
   location = "Singapore"
   date_start = "2018-11-12"
-  date_end = ""
+  date_end = "2019-08-02"
   description = """
   """
 

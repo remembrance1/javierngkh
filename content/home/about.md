@@ -31,8 +31,10 @@ weight = 5
 
 # Background
 
-I am a strategic analyst experienced with techniques and best practices in predictive modelling, data discovery and data visualization. Professionally, I work at EY Singapore, as a member of the Forensics & Integrity Services team. We utilize a variety of tools to sift through databases, identify meaningful patterns and correlations with machine learning techniques, and translating them into actionable insights to drive business decisions.    
+I am a strategic analyst experienced with techniques and best practices in predictive modelling, data discovery and data visualization. Professionally, I work at the Reserve Bank of New Zealand, as a new member of the Data & Statistics team.  
+
+Prior to my relocation to New Zealand, I worked in EY Singapore, as a member of the Forensics & Integrity Services team. We utilized a variety of tools to sift through databases, identify meaningful patterns and correlations with machine learning techniques, and translated them into actionable insights to drive business decisions.    
 
 Coming from a startup background, I've worn many hats in my career: programmer, writer, researcher, co-founder, social media strategist, mechanical designer and, marketer. As a result, I have a unique ability to manage multi-disciplinary projects and handle complex challenges. I love working with equally enthusiastic, cross-functional teams who are eager to build elegant and impactful products.
 
-As an advocate for lifelong learning, I have developed and delivered workshops at my workplace, tutored polytechnic-level students, on the fundamentals of Python programming. 
+As an advocate for lifelong learning, I have developed and delivered workshops at my workplace, tutored polytechnic-level students, on the fundamentals of programming - SQL, R and Python. 

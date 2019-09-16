@@ -9,11 +9,11 @@
 baseurl = "https://javierngkh.rbind.io/"
 
 # Title of your site
-title = "Under Construction"
+title = "Javier Ng Kok How"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Under Construction 2019"
+copyright = "&copy; Javier Ng Kok How 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -54,15 +54,15 @@ enableGitInfo = true
 
   # AUTHOR SETUP
   # Your details.
-  name = "Under Construction"
+  name = "Javier Ng Kok How"
   role = "Data Artist | Data Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "EY Singapore", url = "https://www.ey.com/sg/en/home" } ]
+  organizations = [ { name = "Reserve Bank of NZ", url = "https://www.rbnz.govt.nz/" },{ name = "EY Alumni", url = "https://www.ey.com/sg/en/home" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "####jkn-coverimage.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "jkn-coverimage.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "#javierngkh@gmail.com"

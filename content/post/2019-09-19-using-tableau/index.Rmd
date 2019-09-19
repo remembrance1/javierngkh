@@ -1,0 +1,31 @@
+---
+title: Using Tableau in Website
+author: Javier Ng
+date: '2019-09-19'
+slug: []
+categories: ["Tableau"]
+tags: ["Tableau"]
+image:
+  caption: ''
+  focal_point: ''
+---
+
+```{r echo = FALSE}
+knitr::include_graphics("tableau-logo.jpg")
+```
+
+This is the very first draft of attempting to attach a Tableau dashboard to a post on Hugo Academic. 
+
+When embedding Tableau Public views in iFrame, the URL must include the following parameters:
+
+- `showVizHome=no` 
+- `embed=true` 
+
+Note that we will have to do some adjustments to the URL: https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:embed=y&:display_count=yes&:origin=viz_share_link 
+
+This is the code being used:
+`<iframe align = "center" width = "850" height = "1000" src="https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:showVizHome=no&:embed=true"/>`
+
+Noticed that after the '?', we will add in `showVizHome=no&:embed=true` for it to work.
+
+<iframe align = "center" width = "850" height = "1000" src="https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:showVizHome=no&:embed=true"/>

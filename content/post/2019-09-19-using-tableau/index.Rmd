@@ -29,3 +29,5 @@ This is the code being used:
 Noticed that after the '?', we will add in `showVizHome=no&:embed=true` for it to work.
 
 <iframe align = "center" width = "850" height = "1000" src="https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:showVizHome=no&:embed=true"/>
+
+End of post.

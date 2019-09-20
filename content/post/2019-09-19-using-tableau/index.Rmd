@@ -28,11 +28,10 @@ This is the code being used:
 
 Noticed that after the '?', we will add in `showVizHome=no&:embed=true` for it to work.
 
-
+```{js}
 <iframe align = "center" width = "850" height = "500" src="https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:showVizHome=no&:embed=true"/>
-
-
-
+```
+  
 This is the very first draft of attempting to attach a Tableau dashboard to a post on Hugo Academic. 
 When embedding Tableau Public views in iFrame, the URL must include the following parameters:
 

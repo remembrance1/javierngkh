@@ -43,16 +43,6 @@ You are the writer of your life’s story. So be confident of your own abilities
 
 While there are definitely people out there who will want to help you, only you truly know what’s best for yourself. Never expect someone else to make major life decisions for yourself. With that said, be responsible of your own choices. Take all the time you need to discover your strengths, learn and create your own path. Don’t jump into any decision just because you may be pressured into them. 
 
-<script type='text/javascript' src='http://mysite.myserver.com/javascripts/api/viz_v1.js'></script>
-  <div class='tableauPlaceholder' >
-  <object class='tableauViz' width='100%' height='100%' style='display:none;'>
-  <param name='host_url' value='http://mysite.myserver.com' />
-  <param name='site_root' value='' />
-  <param name='name' value='ProfitAnalysis/Sales_Dashboard' />		
-  <param name='tabs' value='yes' />
-  <param name='toolbar' value='yes' />
-  <param name='filter' value=':original_view=yes' /></object></div>
-
 7. Tough Times Don’t Last
 
 From the famous adage, “This too shall pass,” brings with it an important life advice. Remember that tough times don’t last and things will eventually turn out for the better. Even when you are feeling lost and overwhelmed by everything, I realized that one excellent way to stay afloat will be to be grateful. Be grateful for the things that are good even when you feel like you are balancing the whole world on your shoulders. Gratitude has been documented to generate success in individuals, so stay positive and this too, shall pass.

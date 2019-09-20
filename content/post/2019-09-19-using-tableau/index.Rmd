@@ -41,4 +41,4 @@ When embedding Tableau Public views in iFrame, the URL must include the followin
 Note that we will have to do some adjustments to the URL: https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:embed=y&:display_count=yes&:origin=viz_share_link 
 
 This is the code being used:
-`<iframe align = "center" width = "850" height = "1000" src="https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:showVizHome=no&:embed=true"/>`
+`<iframe align = "center" width = "850" height = "500" src="https://public.tableau.com/views/Findthebestdestinationforsummer2019_15575673648120/BestDestination?:showVizHome=no&:embed=true"/>`

@@ -42,12 +42,12 @@ weight = 7
   name = "Tableau"
   
 [[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
+  icon = "chess-rook"
+  icon_pack = "fas"
+  name = "Data Strategy"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "diagram-project"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Agile Methodology"
 +++

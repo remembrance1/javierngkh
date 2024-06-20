@@ -258,10 +258,10 @@ enableGitInfo = true
     icon_pack = "fas"
     link = "mailto:javierngkh@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "###"
+  #[[params.social]]
+   # icon = "twitter"
+    #icon_pack = "fab"
+    #link = "###"
 
   [[params.social]]
     icon = "github"
@@ -273,15 +273,15 @@ enableGitInfo = true
     icon_pack = "fab"
     link = "https://www.linkedin.com/in/javierngkh"
 
-  [[params.social]]
-    icon = "stack-overflow"
-    icon_pack = "fab"
-    link = "https://stackoverflow.com/users/8872868/javier"
+  #[[params.social]]
+   # icon = "stack-overflow"
+    #icon_pack = "fab"
+    #link = "https://stackoverflow.com/users/8872868/javier"
 
-  [[params.social]]
-    icon = "keybase"
-    icon_pack = "fab"
-    link = "####"
+  #[[params.social]]
+   # icon = "keybase"
+    #icon_pack = "fab"
+    #link = "####"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

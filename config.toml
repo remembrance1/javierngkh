@@ -9,11 +9,11 @@
 baseurl = "https://javierngkh.rbind.io/"
 
 # Title of your site
-title = "Javier Ng K.H."
+title = "Javierngkh"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Javier Ng K.H. 2024"
+copyright = "&copy; javierngkh 2024"
 
 theme = "hugo-academic"
 enableEmoji = true

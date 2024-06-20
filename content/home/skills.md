@@ -48,6 +48,6 @@ weight = 7
 
 [[feature]]
   icon = "raspberry-pi"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Raspberry Pi"
 +++

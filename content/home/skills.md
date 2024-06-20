@@ -47,7 +47,7 @@ weight = 7
   name = "Data Strategy"
 
 [[feature]]
-  icon = "raspberry-pi"
+  icon = "chess-rook"
   icon_pack = "fas"
   name = "Raspberry Pi"
 +++

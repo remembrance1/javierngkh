@@ -9,11 +9,11 @@
 baseurl = "https://javierngkh.rbind.io/"
 
 # Title of your site
-title = "Javier Ng K.H"
+title = "Javier Ng K.H."
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Javier Ng K.H 2024"
+copyright = "&copy; Javier Ng K.H. 2024"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -54,7 +54,7 @@ enableGitInfo = true
 
   # AUTHOR SETUP
   # Your details.
-  name = "Javier Ng K.H"
+  name = "Javier Ng K.H."
   role = "Data Artist | Data Science"
 
   # Organizations/Affiliations.

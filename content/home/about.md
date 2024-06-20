@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2024-06-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -18,8 +18,18 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Master of Artificial Intelligence (Current)"
+  institution = "Victoria University of Wellington"
+  year = 2026
+
+[[education.courses]]
+  course = "Master of Fintech & Investment Management"
+  institution = "Lincoln University"
+  year = 2025
+
+[[education.courses]]
   course = "Data Science Specialization"
-  institution = "The John Hopkins University"
+  institution = "The John Hopkins University Online"
   year = 2018
 
 [[education.courses]]
@@ -30,7 +40,7 @@ weight = 5
 +++
 
 # Background
-
+(WIP)
 I am a strategic analyst experienced with techniques and best practices in predictive modelling, data discovery and data visualization. Professionally, I work at the Reserve Bank of New Zealand, as a new member of the Data & Statistics team.  
 
 Prior to my relocation to New Zealand, I worked in EY Singapore, as a member of the Forensics & Integrity Services team. We utilized a variety of tools to sift through databases, identify meaningful patterns and correlations with machine learning techniques, and translated them into actionable insights to drive business decisions.    

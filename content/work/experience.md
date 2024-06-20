@@ -67,20 +67,10 @@ date_format = "January 2006"
   
 [[experience]]
   title = "Co-Founder"
-  company = "Intelligami"
+  company = "Various Startups"
   company_url = ""
   location = "Singapore"
-  date_start = "2014-07-01"
-  date_end = "2016-07-31"
+  date_start = "2012-01-01"
+  date_end = "2017-12-31"
   description = """ """
-  
-[[experience]]
-  title = "Business Development Manager"
-  company = "Heart2Help"
-  company_url = ""
-  location = "Hyderabad, India"
-  date_start = "2013-09-01"
-  date_end = "2014-11-01"
-  description = """ """
-
 +++

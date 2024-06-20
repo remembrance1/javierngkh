@@ -3,7 +3,7 @@ if (file.exists("~/.Rprofile")) {
 }
 
 options(
-  blogdown.author = "Alison Hill",
+  blogdown.author = "Javier Ng",
   blogdown.ext = ".Rmd",
   blogdown.subdir = "post",
   blogdown.yaml.empty = TRUE,

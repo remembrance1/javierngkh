@@ -47,7 +47,7 @@ weight = 7
   name = "Data Strategy"
 
 [[feature]]
-  icon = "diagram-project"
-  icon_pack = "fas"
-  name = "Agile Methodology"
+  icon = "raspberry-pi"
+  icon_pack = "fab"
+  name = "Raspberry Pi"
 +++

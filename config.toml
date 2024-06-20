@@ -13,7 +13,7 @@ title = "Javier Ng Kok How"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Javier Ng Kok How 2019"
+copyright = "&copy; Javier Ng K.H 2024"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -54,7 +54,7 @@ enableGitInfo = true
 
   # AUTHOR SETUP
   # Your details.
-  name = "Javier Ng Kok How"
+  name = "Javier Ng K.H"
   role = "Data Artist | Data Science"
 
   # Organizations/Affiliations.
@@ -115,7 +115,7 @@ enableGitInfo = true
   sharing_image = "jkn-sharingsite.jpg"
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = "javierngkh"
+  twitter = ""
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".

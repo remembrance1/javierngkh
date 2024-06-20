@@ -1,3 +1,5 @@
+https://javierngkh.rbind.io/*  https://javierngkh.rbind.io/:splat  301!
+http://javierngkh.netlify.com/* http://javierngkh.rbind.io/:splat 301!
 http://javierngkh.rbind.io/*   https://javierngkh.rbind.io/:splat  301!
 
 # Fix annoying effect of slug on bundled pages

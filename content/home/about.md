@@ -42,3 +42,8 @@ weight = 5
 Welcome! I'm Javier Ng, a data analyst adept at leading transformative data strategy and governance initiatives in organisations. I excel at identifying and building strategic partnerships, while leveraging insights to drive operational efficiency and business growth.
 
 I use this website to share about projects I am working on, and to write reflections about my learning journey.
+
+[[params.social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/cv.pdf"

@@ -43,9 +43,3 @@ Welcome! I'm Javier Ng, a data analyst adept at leading transformative data stra
 
 I use this website to share about projects I am working on, and to write reflections about my learning journey.
 
-+++
-
-[[params.social]]
-  icon = "cv"
-  icon_pack = "ai"
-  link = "files/cv.pdf"

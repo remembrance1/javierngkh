@@ -18,18 +18,29 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Big Data & Statistics"
-  company = "Reserve Bank of New Zealand"
-  company_url = "https://www.rbnz.govt.nz"
+  title = "Insights & Partnerships"
+  company = "Ministry of Business, Innovation & Employment"
+  company_url = "https://www.mbie.govt.nz"
   location = "Wellington, New Zealand"
-  date_start = "2019-09-02"
-  date_end = "2020-10-01"
+  date_start = "2023-01-02"
+  date_end = ""
   description = """
   """
 
 [[experience]]
-  title = "Forensic Data Analytics Associate"
+  title = "Data Intelligence"
+  company = "Ministry of Social Development"
+  company_url = "https://www.msd.govt.nz"
+  location = "Wellington, New Zealand"
+  date_start = "2020-10-02"
+  date_end = "2022-07-01"
+  description = """
+  """
+
+[[experience]]
+  title = "Forensic Data Analytics"
   company = "Ernst & Young (EY)"
   company_url = "https://www.ey.com/sg/en/home/"
   location = "Singapore"

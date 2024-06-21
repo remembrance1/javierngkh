@@ -25,7 +25,7 @@ weight = 1
   icon = "r-project"
   icon_pack = "fab"
   name = "R user"
-  description = "I have been an avid R user since 2013. My R journey started in the classroom as a student. Subsequently, in the lab as a data analyst dealing with cardiovascular data and presently, a forensic data analytics associate in EY. You can find my current scripts [here](https://github.com/remembrance1/Essential-R-Codes)."
+  description = "I have been an avid R user since 2013. My R journey started in the classroom as a student and it has growth tremendously throughout my professional career. You can find my current scripts [here](https://github.com/remembrance1/Essential-R-Codes)."
   
 [[feature]]
   icon = "python"

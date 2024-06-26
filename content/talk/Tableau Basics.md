@@ -51,10 +51,11 @@ caption = ""
 **Sharing and Publishing**:
 +    Sharing visualizations and dashboards with others
 +    Publishing to Tableau Server and Tableau Online
-  
+
+{{< figure src="/img/tableau.jpg" >}}
+
 +   **Duration**: 2 hours
 +   **Requirements**: No prior experience with Tableau is required
 +   **Things to Bring**: A laptop with Tableau Desktop installed (a free trial version is available).
 
-{{< figure src="/img/tableau.jpg" >}}
 

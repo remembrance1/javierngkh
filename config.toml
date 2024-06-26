@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = "javierngkh-rbind-io-1"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-82997072-2"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -34,7 +34,7 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
 # Get last modified date for content from Git?
-enableGitInfo = true
+enableGitInfo = false
 
 [outputs]
   home = [ "HTML", "CSS", "RSS", "JSON" ]
@@ -128,10 +128,10 @@ enableGitInfo = true
   time_format = "3:04 PM"
 
   # Show estimated reading time for posts?
-  reading_time = true
+  reading_time = false
 
   # Display comment count? Requires commenting to be enabled.
-  comment_count = true
+  comment_count = false
 
   # Display next/previous section pager?
   section_pager = false
@@ -170,7 +170,7 @@ enableGitInfo = true
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
-  sharing = true
+  sharing = false
 
   # Privacy pack
   #   Show a cookie consent message to visitors
@@ -202,7 +202,7 @@ enableGitInfo = true
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]
@@ -213,7 +213,7 @@ enableGitInfo = true
   # Configuration of project pages.
   [params.projects]
     # List publications and talks related to the project?
-    list_children = true
+    list_children = false
 
     # Post list format.
     #   0 = Simple
@@ -233,7 +233,7 @@ enableGitInfo = true
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 2
+    talk_format = 0
 
   # Social/Academic Networking
   #

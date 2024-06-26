@@ -18,7 +18,7 @@ url_video = ""
 
 [[url_custom]]
     name = "Md"
-    url = "https://github.com/remembrance1/javierngkh/blob/master/content/talk/Python-foundation2.md"
+    url = "https://github.com/remembrance1/javierngkh/blob/master/content/talk/Power BI Basics.md"
     
 # Optional featured image (relative to `static/img/` folder).
 [header]

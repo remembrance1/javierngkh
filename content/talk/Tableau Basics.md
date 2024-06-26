@@ -19,10 +19,6 @@ url_video = ""
 [[url_custom]]
     name = "Md"
     url = "https://github.com/remembrance1/javierngkh/blob/master/content/talk/Tableau Basics.md"
-
-[[url_custom]]
-    name = ""
-    url = ""
     
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -30,29 +26,31 @@ image = ""
 caption = ""
 
 +++
+**Topics**
+
 **Introduction to Tableau**:
-+ Understanding the Tableau interface
-+ Connecting to data sources
-+ Overview of Tableau workspace
++    Understanding the Tableau interface
++    Connecting to data sources
++    Overview of Tableau workspace 
   
 **Basic Data Visualization**:
-+ Creating basic charts and graphs (bar charts, line charts, pie charts, etc.)
-+ Customizing visuals and layouts
-+ Using color and design to enhance data storytelling
++    Creating basic charts and graphs (bar charts, line charts, pie charts, etc.)
++    Customizing visuals and layouts
++    Using color and design to enhance data storytelling
   
 **Data Manipulation**:
-+ Sorting and filtering data
-+ Applying basic calculations and aggregations
-+ Using groups and sets
++    Sorting and filtering data
++    Applying basic calculations and aggregations
++    Using groups and sets
 
 **Building Dashboards:**
-+ Designing interactive dashboards
-+ Adding filters and actions to dashboards
-+ Best practices for dashboard design
++    Designing interactive dashboards
++    Adding filters and actions to dashboards
++    Best practices for dashboard design
 
 **Sharing and Publishing**:
-+ Sharing visualizations and dashboards with others
-+ Publishing to Tableau Server and Tableau Online
++    Sharing visualizations and dashboards with others
++    Publishing to Tableau Server and Tableau Online
   
 +   **Duration**: 2 hours
 +   **Requirements**: No prior experience with Tableau is required

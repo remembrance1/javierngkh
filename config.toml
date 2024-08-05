@@ -219,7 +219,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 0
+    #post_format = 0
 
     # Publication list format.
     #   0 = Simple
@@ -227,7 +227,7 @@ enableGitInfo = false
     #   2 = APA
     #   3 = MLA
     #   4 = Stream
-    publication_format = 4
+    #publication_format = 4
 
     # Talk list format.
     #   0 = Simple

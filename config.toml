@@ -219,7 +219,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    post_format = 2
+    post_format = 0
 
     # Publication list format.
     #   0 = Simple

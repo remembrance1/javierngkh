@@ -44,6 +44,9 @@ filter_default = 0
   name = "Personal"
   tag = "Personal"
   
-
+[[filter]]
+  name = "Work"
+  tag = "Work"  
+  
 +++
 

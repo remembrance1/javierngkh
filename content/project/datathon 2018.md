@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Predictive Modelling", "Datathon"]
+tags = ["Personal_projects"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://docs.google.com/presentation/d/16acItwmVnOcL9MSKSFgALiCF8Ys9PD3lQ7xkONJ7Zy4/edit?usp=sharing"

@@ -39,22 +39,15 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-
-[[filter]]
-  name = "NLP"
-  tag = "NLP"
   
 [[filter]]
-  name = "Capstone"
-  tag = "Capstone"
+  name = "Work Projects"
+  tag = "Work_projects"
 
 [[filter]]
-  name = "Datathon"
-  tag = "Datathon"
+  name = "Personal Projects"
+  tag = "Personal_projects"
   
-[[filter]]
-  name = "Predictive Modelling"
-  tag = "Predictive Modelling"
 
 +++
 

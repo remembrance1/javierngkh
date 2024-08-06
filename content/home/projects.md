@@ -39,14 +39,10 @@ filter_default = 0
 [[filter]]
   name = "All"
   tag = "*"
-  
-[[filter]]
-  name = "Work_projects"
-  tag = "Work_projects"
 
 [[filter]]
-  name = "Personal_projects"
-  tag = "Personal_projects"
+  name = "Personal"
+  tag = "Personal"
   
 
 +++

@@ -36,6 +36,7 @@ caption = ""
 **Context:** Assisted Kiwibank in establishing a comprehensive data strategy.
 
 **Actions:** 
+
 - Gathered requirements from clients through interviews, workshops, and user stories.
 - Developed functional and technical specifications, led the creation of Statements of Work, and provided accurate project estimates.
 - Conducted a two-day workshop with senior management to discuss data possibilities and organisational structure recommendations.

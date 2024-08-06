@@ -6,11 +6,7 @@ date = "2024-08-06"
 title = "Data Strategy Development"
 
 # Project summary to display on homepage.
-summary = """
-- Assisted Kiwibank in establishing a comprehensive data strategy.
-- Testing this works
-
-"""
+summary = "test"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

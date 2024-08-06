@@ -41,11 +41,11 @@ filter_default = 0
   tag = "*"
   
 [[filter]]
-  name = "Work Projects"
+  name = "Work_projects"
   tag = "Work_projects"
 
 [[filter]]
-  name = "Personal Projects"
+  name = "Personal_projects"
   tag = "Personal_projects"
   
 

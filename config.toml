@@ -304,8 +304,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Experiences"
-  url = "/experiences/"
+  name = "Experience"
+  url = "/work/"
   weight = 2
 
 #[[menu.main]]

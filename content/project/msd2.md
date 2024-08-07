@@ -8,10 +8,6 @@ title = "Data Management & Tableau Implementation"
 # Project summary to display on homepage.
 summary = """
 Revamped MSD’s data management and business intelligence practices, leading to improved data handling and quality.
-
-- Introduced Tableau and converted manual processes into Python pipelines.
-- Developed and implemented a data governance framework addressing data quality, lifecycle management, and single source of truth.
-- Collaborated with the Chief Data Officer to execute improvements in data management.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).

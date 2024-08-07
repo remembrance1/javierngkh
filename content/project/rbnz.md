@@ -8,10 +8,6 @@ title = "Dashboard Technology Evaluation and Implementation (RBNZ)"
 # Project summary to display on homepage.
 summary = """
 Evaluated and implemented dashboard technologies for the Reserve Bank of New Zealand, enhancing reporting capabilities.
-
-- Created comparative dashboards in Tableau and PowerBI to aid in technology selection.
-- Documented best practices and dashboarding techniques for effective use.
-- Supported the transition to PowerBI with detailed documentation and training.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).

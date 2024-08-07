@@ -8,10 +8,6 @@ title = "Data Strategy Development"
 # Project summary to display on homepage.
 summary = """
 Developed and implemented a data strategy for Kiwibank, enhancing their data capabilities and strategic insights.
-
-- Gathered requirements through client interviews, workshops, and user stories.
-- Created functional and technical specifications, and led the development of Statements of Work.
-- Conducted a two-day workshop with senior management to discuss data opportunities and organisational structure.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).

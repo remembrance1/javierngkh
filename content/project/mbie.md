@@ -8,10 +8,6 @@ title = "Cyclone Gabrielle Business Relief Distribution"
 # Project summary to display on homepage.
 summary = """
 Utilised data to identify and support businesses affected by Cyclone Gabrielle with a $50 million relief package.
-
-- Analysed data from StatsNZ and LINZ to pinpoint businesses in severely impacted areas.
-- Conducted pulse surveys with 722 respondents to assess immediate and future needs.
-- Provided actionable insights to government agencies to address financial, infrastructure, supply chain, and staffing concerns.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).

@@ -8,10 +8,6 @@ title = "Assault Prevention in MSD Service Centres (MSD)"
 # Project summary to display on homepage.
 summary = """
 Implemented strategies to reduce assault cases in MSD service centres by analysing and integrating multiple data sources.
-
-- Conducted root cause analysis of client aggression and mapped high-risk areas using data from Police NZ, Metlink, and Google.
-- Developed a model for the effective deployment of Tautiakis to enhance safety.
-- Reduced operational costs and improved safety for clients and staff through targeted interventions.
 """
 
 # Optional image to display on homepage (relative to `static/img/` folder).

@@ -308,10 +308,10 @@ enableGitInfo = false
   url = "/work/"
   weight = 2
 
-#[[menu.main]]
- # name = "Accomplishments"
-  #url = "/accomplishments/"
-  #weight = 3
+[[menu.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 3
   
 #[[menu.main]]
 #  name = "Posts"

@@ -8,7 +8,7 @@ title = "Classes"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 30
+weight = 50
 
 # Number of talks to list.
 count = 10
@@ -17,7 +17,7 @@ count = 10
 #   0 = Simple
 #   1 = Detailed
 #   2 = Stream
-list_format = 2
+list_format = 0
 
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false

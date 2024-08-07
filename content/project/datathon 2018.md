@@ -6,7 +6,7 @@ date = "2017-07-11"
 title = "Decision Making Tool for Neurosurgery in Elderly Patients"
 
 # Project summary to display on homepage.
-summary = "Due to the onset of greater risks associated with operative intervention in elderly patients, this model aims to shed light on the following questions: What factors can help to predict the post-op outcome in these patients, and help to influence how we manage them surgically. Using XGBoost & RF models, a predicitive model was built over a span of 2 days in the NUHS MIT Healthcare Datathon 2018"
+summary = "At the NUHS MIT Healthcare Datathon 2018, a predictive model using XGBoost and Random Forest was created to identify factors influencing post-operative outcomes and guide surgical management for elderly patients."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = ""

@@ -27,7 +27,7 @@ weight = 5
   year = 2025
 
 [[education.courses]]
-  course = "Data Science Specialization"
+  course = "Data Science Specialisation"
   institution = "The John Hopkins University Online"
   year = 2018
 

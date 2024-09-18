@@ -1,4 +1,4 @@
-+++
+Hui+++
 # About/Biography widget.
 widget = "about"
 active = true
@@ -39,6 +39,6 @@ weight = 5
 +++
 
 # Background
-Hi there! I’m Javier, a data strategy leader with a proven track record in driving organisational transformation through data governance and analytics. With a focus on building strategic partnerships and leveraging data-driven insights, I help businesses enhance operational efficiency and accelerate growth.
+Welcome to my digital workspace. I’m Javier, a data strategist with a passion for transforming raw data into actionable insights that fuel business growth and operational excellence. Whether it’s designing data governance frameworks or forging powerful strategic alliances, I’m driven by the impact that informed decision-making can have on organisations.
 
 On this site, I share key projects, insights, and reflections from my ongoing journey in data analytics and leadership.

@@ -39,7 +39,6 @@ weight = 5
 +++
 
 # Background
-Welcome! I'm Javier Ng, a data analyst adept at leading transformative data strategy and governance initiatives in organisations. I excel at identifying and building strategic partnerships, while leveraging insights to drive operational efficiency and business growth.
+Hi there! I’m Javier, a data strategy leader with a proven track record in driving organisational transformation through data governance and analytics. With a focus on building strategic partnerships and leveraging data-driven insights, I help businesses enhance operational efficiency and accelerate growth.
 
-I use this website to share about projects I am working on, and to write reflections about my learning journey.
-
+On this site, I share key projects, insights, and reflections from my ongoing journey in data analytics and leadership.

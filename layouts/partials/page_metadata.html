@@ -3,33 +3,29 @@
     {{ $authorLen := len $.Params.authors }}
     <div>
       {{ range $k, $v := $.Params.authors -}}
-        <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+        <span itemscope itemprop="author" itemtype=http://schema.org/Person>
           <span itemprop="name">{{- $v | markdownify -}}</span>
         </span>
         {{- if lt $k (sub $authorLen 1) -}}, {{ end }}
       {{ end }}
     </div>
   {{ else }}
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <span itemscope itemprop="author" itemtype=http://schema.org/Person>
       <meta itemprop="name" content="{{ $.Site.Params.name }}">
     </span>
   {{ end }}
 
   <span class="article-date">
-    {{/* Check if Lastmod is set and different from Date */}}
-    {{ if $.Params.Lastmod }}
-      {{ if ne $.Params.Lastmod $.Params.Date }}
-        {{ i18n "last_updated" }} on {{ $.Params.Lastmod | date $.Site.Params.date_format }}
-      {{ end }}
-    {{ else }}
-      <meta content="{{ $.Params.Date }}" itemprop="datePublished">
-      <time datetime="{{ $.Params.Date }}" itemprop="datePublished">
-        {{ $.Date.Format $.Site.Params.date_format }}
-      </time>
+    {{ if ne $.Params.Lastmod $.Params.Date }}
+      {{ i18n "last_updated" }} on {{ $.Date.Format $.Site.Params.date_format }}
     {{ end }}
+    <meta content="{{ $.Params.Date }}" itemprop="datePublished">
+    <time datetime="{{ $.Params.Date }}" itemprop="datePublished">
+      {{ $.Date.Format $.Site.Params.date_format }}
+    </time>
   </span>
 
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+  <span itemscope itemprop="publisher" itemtype=http://schema.org/Person>
     <meta itemprop="name" content="{{ $.Site.Params.name }}">
   </span>
 

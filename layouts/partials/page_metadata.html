@@ -1,20 +1,23 @@
-{{ $is_list := .is_list }}
-{{ $ := .content }}
-<div class="article-metadata">
+{{ $is_list := false }}
+{{ with .IsList }}
+  {{ $is_list = . }}
+{{ end }}
 
-  {{/* If `authors` is set and is not empty. */}}
+{{ $content := .content }}
+
+<div class="article-metadata">
   {{ if $.Params.authors }}
   {{ $authorLen := len $.Params.authors }}
   <div>
     {{ range $k, $v := $.Params.authors -}}
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <span itemscope itemprop="author" itemtype=http://schema.org/Person>
       <span itemprop="name">{{- $v | markdownify -}}</span>
     </span>
     {{- if lt $k (sub $authorLen 1) -}}, {{ end }}
     {{ end }}
   </div>
   {{ else }}
-  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+  <span itemscope itemprop="author" itemtype=http://schema.org/Person>
     <meta itemprop="name" content="{{ $.Site.Params.name }}">
   </span>
   {{ end }}
@@ -28,41 +31,35 @@
       {{ $.Date.Format $.Site.Params.date_format }}
     </time>
   </span>
-  <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
+  <span itemscope itemprop="publisher" itemtype=http://schema.org/Person>
     <meta itemprop="name" content="{{ $.Site.Params.name }}">
   </span>
-  
-  <!--this adds twitter handle to all posts-->
+
   <span class="middot-divider"></span>
-  {{ with $.Site.Params.twitter }}  
+  {{ with $.Site.Params.twitter }} 
   <span class="article-date">
     <i class="fab fa-twitter"></i>
-    <a href="https://twitter.com/{{ . }}" target="_blank">@{{ . }}</a>&nbsp{{ else }}@{{ . }}
+    <a href=https://twitter.com/{{ . }} target="_blank">@{{ . }}</a>&nbsp{{ else }}@{{ . }}
   </span>
   {{ end }}
-  <!--end twitter handle code-->
-  
-  <!--this adds github edit button to all posts-->
-{{ if $.File.Path }}
 
-{{ $Rmd := (print $.File.BaseFileName ".Rmd") }}
+  {{ if $.File.Path }}
+    {{ $Rmd := (print $.File.BaseFileName ".Rmd") }}
+    {{ if (where (readDir (print "content/" $.File.Dir)) "Name" $Rmd) }}
+      {{ $.Scratch.Set "FilePath" (print $.File.Dir $Rmd) }}
+    {{ else }}
+      {{ $.Scratch.Set "FilePath" $.File.Path }}
+    {{ end }}
 
-{{ if (where (readDir (print "content/" $.File.Dir)) "Name" $Rmd) }}
-  {{ $.Scratch.Set "FilePath" (print $.File.Dir $Rmd) }}
-{{ else }}
-  {{ $.Scratch.Set "FilePath" $.File.Path }}
-{{ end }}
-
-  <span class="middot-divider"></span>
-  {{ with $.Site.Params.GithubSource }}  
-  <span class="article-date">
-    <i class="fab fa-github"></i>
-    <a href="{{ . }}{{ $.Scratch.Get "FilePath" }}" target="_blank">View source</a>&nbsp{{ else }}@{{ . }}
-  </span>
+    <span class="middot-divider"></span>
+    {{ with $.Site.Params.GithubSource }} 
+    <span class="article-date">
+      <i class="fab fa-github"></i>
+      <a href="{{ . }}{{ $.Scratch.Get "FilePath" }}" target="_blank">View source</a>&nbsp{{ else }}@{{ . }}
+    </span>
+    {{ end }}
   {{ end }}
-{{ end }}
-  <!--end github edit code-->
- 
+
   {{ if and (eq $.Type "post") (not (or (eq $.Site.Params.reading_time false) (eq $.Params.reading_time false))) }}
   <span class="middot-divider"></span>
   <span class="article-reading-time">
@@ -75,7 +72,7 @@
   <span class="middot-divider"></span>
   <a href="{{ $.RelPermalink }}#disqus_thread"><!-- Count will be inserted here --></a>
   {{ end}}
-  
+
   {{ if $.Params.categories }}
   {{ $categoriesLen := len $.Params.categories }}
   {{ if gt $categoriesLen 0 }}
@@ -91,7 +88,7 @@
   {{ end }}
 
   {{ if ne $is_list 1 }}
-  {{ partial "share.html" $ }}
+  {{ partial "share.html" . }}
   {{ end }}
 
 </div>
